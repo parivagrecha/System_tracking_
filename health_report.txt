@@ -70,3 +70,39 @@ Running Processes:
 27
 
 
+================================
+System Health Report - Mon Jun  1 05:25:14 UTC 2026
+================================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.7 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       598Mi       3.1Gi       3.2Mi       198Mi       3.1Gi
+Swap:          1.0Gi          0B       1.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         266G  234G   32G  89% /usr/lib/wsl/drivers
+/dev/sdc       1007G  2.6G  954G   1% /
+none            1.9G   76K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.4M  1.9G   1% /init
+none            1.9G  528K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             266G  234G   32G  89% /mnt/c
+D:\             196G   15G  181G   8% /mnt/d
+P:\              15G  816M   14G   6% /mnt/p
+tmpfs           380M   16K  380M   1% /run/user/1000
+
+Running Processes:
+26
+
+
